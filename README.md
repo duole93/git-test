@@ -1,2 +1,3 @@
 # git-test
-testing git
+re learning git 
+1st repo after a while
